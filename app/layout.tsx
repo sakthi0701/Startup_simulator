@@ -8,8 +8,7 @@ export const metadata: Metadata = {
   title: 'Startup Value Simulator',
   description: 'Model your startup funding rounds and calculate founder ownership.',
   icons: {
-    icon: '/favicon1.ico',
-    apple: '/favicon2.png',
+    icon: '/startup.png', 
   },
 };
 
